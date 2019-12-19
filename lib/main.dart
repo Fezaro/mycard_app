@@ -46,7 +46,7 @@ class MyApp extends StatelessWidget {
                   child: ListTile(
                     leading: Icon(Icons.phone, color: Colors.limeAccent[400]),
                     title: Text(
-                      '+254 724769981',
+                      '+254 7xxxxxxx1',
                       style: TextStyle(
                           fontFamily: 'LobsterTwoI',
                           color: Colors.teal[900],
